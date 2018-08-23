@@ -1,0 +1,11 @@
+General R Packages
+dplyr
+rms
+
+Visualization Packages
+ggplot2
+soccermatics (through devtools)
+ggsoccer (through devtools)
+
+Data Packages
+StatsBombR (through devtools)
