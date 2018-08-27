@@ -1,6 +1,7 @@
-General R Packages
-dplyr
-rms
+General Packages
+devtools - To install non CRAN packages
+dplyr - To manipulate data
+rms - Used for bootstrapping
 
 Visualization Packages
 ggplot2
